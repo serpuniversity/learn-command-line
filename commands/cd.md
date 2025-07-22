@@ -88,7 +88,8 @@ cd "My Documents"
 # or
 cd My\ Documents
 ```
-<img width="1727" height="1080" alt="image" src="https://github.com/user-attachments/assets/b29472ec-e89e-4c6a-8468-7f06642c2393" />
+
+<img width="1727" height="1080" alt="image" src="https://github.com/serpuniversity/command-line/blob/main/images/cd-.png" />
 
 
 
