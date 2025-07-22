@@ -22,7 +22,7 @@ The `cd` command changes the current working directory (folder), allowing you to
 ```bash
 cd ..
 ```
-<img width="800" alt="Moving up one directory with cd .." target="_blank" src="https://github.com/serpuniversity/command-line/blob/main/images/cd...png" />
+<img width="800" alt="Moving up one directory with cd .." target="_blank" src="https://github.com/serpuniversity/command-line/blob/main/images/cd-up-one.png" />
 
 ### Move up two directories
 ```bash
