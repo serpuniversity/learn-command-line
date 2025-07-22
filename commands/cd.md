@@ -89,4 +89,4 @@ cd "My Documents"
 cd My\ Documents
 ```
 
-<img width="800" alt="How to Handle Spaces in Directory Names with cd command" target="_blank" src="https://github.com/serpuniversity/command-line/blob/main/images/cd-.png" />
+<img width="800" alt="How to Handle Spaces in Directory Names with cd command" target="_blank" src="https://github.com/serpuniversity/command-line/blob/main/images/cd-with-spaces.png" />
