@@ -36,7 +36,7 @@ cd ../another-directory
 ```
 <img width="800" alt="Moving to parent folder's sibling directory with cd ../another-directory" target="_blank" src="https://github.com/serpuniversity/command-line/blob/main/images/cd-parent-sibling.png" />
 
-### Switch back to previously directory
+### Switch back to previous directory
 ```bash
 cd -
 ```
