@@ -1,6 +1,6 @@
 # `cd`
 
-> **"How do I get out of here?"**
+> _"How do I get out of here?"_
 
 The `cd` command changes the current working directory (folder), allowing you to move between directories (folders) on the filesystem.
 
@@ -11,8 +11,6 @@ The `cd` command changes the current working directory (folder), allowing you to
 ## Mnemonic
 
 `cd` stands for **c**hange **d**irectory.
-
-Think _"how do i get out of here?"_
 
 ## Options
 
@@ -48,6 +46,7 @@ cd -
 ```bash
 cd
 cd ~
+cd /User/<username>
 cd $HOME
 ```
 <INSERT_TERMINAL_RECORDING_OR_GIF_HERE>
