@@ -70,14 +70,14 @@ cd [directoryName/subDirectoryName]
 
 | Command | What It Does | Example |
 |---------|--------------|---------|
-| `cd` | Go to home directory | `cd` → `/home/username` |
-| `cd ~` | Go to home directory | `cd ~` → `/home/username` |
-| `cd ..` | Go up one level | From `/home/user/docs` → `/home/user` |
-| `cd ../..` | Go up two levels | From `/home/user/docs/work` → `/home/user` |
-| `cd -` | Go back to previous directory | Toggles between last two directories |
+| `cd` | Go to home directory | `cd` → `/Users/<username>` |
+| `cd ~` | Go to home directory | `cd ~` → `/Users/<username>` |
+| `cd ..` | Go up one level | From current directory to parent |
+| `cd ../..` | Go up two levels | From current directory up two levels |
+| `cd -` | Go back to previous directory | Switches between last two directories |
 | `cd /` | Go to root directory | `cd /` → `/` |
-| `cd ~/Desktop` | Go to Desktop | `cd ~/Desktop` → `/home/username/Desktop` |
-| `cd ../sibling` | Go to sibling directory | From `/docs/folder1` → `/docs/folder2` |
+| `cd ~/Desktop` | Go to Desktop | `cd ~/Desktop` → `~/Desktop` |
+| `cd ../another-directory` | Go to sibling directory | From one folder to its sibling |
 
 
 ## Tips
