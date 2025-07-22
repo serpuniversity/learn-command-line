@@ -4,6 +4,12 @@
 
 The `cd` command changes the current working directory (folder), allowing you to move between directories (folders) on the filesystem.
 
+# Click to watch the video 👇
+
+<a href="https://www.youtube.com/watch?v=xn4IPic-VnY" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/cd-command-description-explanation-reference-examples-how-to-change-directories-in-terminal.jpg" width="1000px">
+</a>
+
 ## Name
 
 `cd` - change directory
