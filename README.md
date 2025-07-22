@@ -1,6 +1,1 @@
-# README
-
-
-## TOC
-
-- [ ] `ls -1`
+# Learn Command Line
