@@ -22,7 +22,7 @@ The `cd` command changes the current working directory (folder), allowing you to
 ```bash
 cd ..
 ```
-<img width="800" alt="Moving up one directory with cd .." target="_blank" src="https://github.com/serpuniversity/command-line/blob/main/images/cd-up-one.png" />
+<img width="800" alt="Moving up one directory with cd .." target="_blank" src="https://github.com/serpuniversity/command-line/blob/main/images/cd...png" />
 
 ### Move up two directories
 ```bash
@@ -34,13 +34,13 @@ cd ../..
 ```bash
 cd ../another-directory
 ```
-<img width="800" alt="Moving to parent folder's sibling directory with cd ../another-directory" target="_blank" src="https://github.com/serpuniversity/command-line/blob/main/images/cd-sibling.png" />
+<img width="800" alt="Moving to parent folder's sibling directory with cd ../another-directory" target="_blank" src="https://github.com/serpuniversity/command-line/blob/main/images/cd-parent-sibling.png" />
 
 ### Switch back to previously directory
 ```bash
 cd -
 ```
-<img width="800" alt="Switching back to previous directory with cd -" target="_blank" src="https://github.com/serpuniversity/command-line/blob/main/images/cd-previous.png" />
+<img width="800" alt="Switching back to previous directory with cd -" target="_blank" src="https://github.com/serpuniversity/command-line/blob/main/images/cd-previous-directory.png" />
 
 ### Move the user's home directory
 ```bash
@@ -64,7 +64,7 @@ cd ~/Desktop
 cd [directoryName]
 cd [directoryName/subDirectoryName]
 ```
-<img width="800" alt="Moving to specific directory with cd ~/Desktop" target="_blank" src="https://github.com/serpuniversity/command-line/blob/main/images/cd-specific.png" />
+<img width="800" alt="Moving to specific directory with cd ~/Desktop" target="_blank" src="https://github.com/serpuniversity/command-line/blob/main/images/cd-specific-directory.png" />
 
 ## Command Quick Reference
 
