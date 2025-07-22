@@ -30,33 +30,33 @@ cd ../..
 ```
 <img width="1728" height="1080" alt="image" src="https://github.com/user-attachments/assets/8ce87648-0790-4ec7-996d-393867c902bc" />
 
-
 ### Move to parent folder's sibling directory
 ```bash
 cd ../another-directory
 ```
-<INSERT_TERMINAL_RECORDING_OR_GIF_HERE>
+<img width="1726" height="1077" alt="image" src="https://github.com/user-attachments/assets/69ff8527-e9c0-4b16-a477-f4982c1229c3" />
 
 ### Switch back to previously directory
 ```bash
 cd -
 ```
-<INSERT_TERMINAL_RECORDING_OR_GIF_HERE>
+<img width="1728" height="1080" alt="image" src="https://github.com/user-attachments/assets/5ac14303-1f75-41b6-a87e-02098ad0a6f8" />
 
 ### Move the user's home directory
 ```bash
 cd
 cd ~
-cd /User/<username>
+cd /Users/<username>
 cd $HOME
 ```
-<INSERT_TERMINAL_RECORDING_OR_GIF_HERE>
+<img width="1728" height="1081" alt="image" src="https://github.com/user-attachments/assets/aaddeac7-58fe-4c36-80a7-f76f4e1b6adb" />
 
 ### Move directly to the filesystem's root directory
 ```bash
 cd /
 ```
-<INSERT_TERMINAL_RECORDING_OR_GIF_HERE>
+<img width="1728" height="1081" alt="image" src="https://github.com/user-attachments/assets/ebb8913f-19e0-4b8a-a0c3-f96a5d140125" />
+
 
 ### Move to a specific directory
 ```bash
@@ -64,7 +64,7 @@ cd ~/Desktop
 cd [directoryName]
 cd [directoryName/subDirectoryName]
 ```
-<INSERT_TERMINAL_RECORDING_OR_GIF_HERE>
+<img width="1728" height="1084" alt="image" src="https://github.com/user-attachments/assets/d1c3ffb7-0c3d-47a9-a340-303766a85405" />
 
 ## Command Quick Reference
 
@@ -88,6 +88,7 @@ cd "My Documents"
 # or
 cd My\ Documents
 ```
-<INSERT_TERMINAL_RECORDING_OR_GIF_HERE>
+<img width="1727" height="1080" alt="image" src="https://github.com/user-attachments/assets/b29472ec-e89e-4c6a-8468-7f06642c2393" />
+
 
 
