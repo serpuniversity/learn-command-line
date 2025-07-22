@@ -22,25 +22,25 @@ The `cd` command changes the current working directory (folder), allowing you to
 ```bash
 cd ..
 ```
-<img width="1728" height="1078" alt="image" src="https://github.com/user-attachments/assets/93cbcb02-f538-4557-a5f9-403637dd4150" />
+<img width="800" alt="Moving up one directory with cd .." target="_blank" src="https://github.com/serpuniversity/command-line/refs/heads/main/images/cd-up-one.png" />
 
 ### Move up two directories
 ```bash
 cd ../..
 ```
-<img width="1728" height="1080" alt="image" src="https://github.com/user-attachments/assets/8ce87648-0790-4ec7-996d-393867c902bc" />
+<img width="800" alt="Moving up two directories with cd ../.." target="_blank" src="https://github.com/serpuniversity/command-line/refs/heads/main/images/cd-up-two.png" />
 
 ### Move to parent folder's sibling directory
 ```bash
 cd ../another-directory
 ```
-<img width="1726" height="1077" alt="image" src="https://github.com/user-attachments/assets/69ff8527-e9c0-4b16-a477-f4982c1229c3" />
+<img width="800" alt="Moving to parent folder's sibling directory with cd ../another-directory" target="_blank" src="https://github.com/serpuniversity/command-line/refs/heads/main/images/cd-sibling.png" />
 
 ### Switch back to previously directory
 ```bash
 cd -
 ```
-<img width="1728" height="1080" alt="image" src="https://github.com/user-attachments/assets/5ac14303-1f75-41b6-a87e-02098ad0a6f8" />
+<img width="800" alt="Switching back to previous directory with cd -" target="_blank" src="https://github.com/serpuniversity/command-line/refs/heads/main/images/cd-previous.png" />
 
 ### Move the user's home directory
 ```bash
@@ -49,13 +49,13 @@ cd ~
 cd /Users/<username>
 cd $HOME
 ```
-<img width="1728" height="1081" alt="image" src="https://github.com/user-attachments/assets/aaddeac7-58fe-4c36-80a7-f76f4e1b6adb" />
+<img width="800" alt="Moving to user's home directory with cd" target="_blank" src="https://github.com/serpuniversity/command-line/refs/heads/main/images/cd-home.png" />
 
 ### Move directly to the filesystem's root directory
 ```bash
 cd /
 ```
-<img width="1728" height="1081" alt="image" src="https://github.com/user-attachments/assets/ebb8913f-19e0-4b8a-a0c3-f96a5d140125" />
+<img width="800" alt="Moving to filesystem's root directory with cd /" target="_blank" src="https://github.com/serpuniversity/command-line/refs/heads/main/images/cd-root.png" />
 
 
 ### Move to a specific directory
@@ -64,7 +64,7 @@ cd ~/Desktop
 cd [directoryName]
 cd [directoryName/subDirectoryName]
 ```
-<img width="1728" height="1084" alt="image" src="https://github.com/user-attachments/assets/d1c3ffb7-0c3d-47a9-a340-303766a85405" />
+<img width="800" alt="Moving to specific directory with cd ~/Desktop" target="_blank" src="https://github.com/serpuniversity/command-line/refs/heads/main/images/cd-specific.png" />
 
 ## Command Quick Reference
 
@@ -89,7 +89,4 @@ cd "My Documents"
 cd My\ Documents
 ```
 
-<img width="1727" height="1080" alt="image" src="https://github.com/serpuniversity/command-line/blob/main/images/cd-.png" />
-
-
-
+<img width="800" alt="How to Handle Spaces in Directory Names with cd command" target="_blank" src="https://github.com/serpuniversity/command-line/refs/heads/main/images/cd-.png" />
