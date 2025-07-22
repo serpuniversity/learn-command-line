@@ -22,13 +22,14 @@ The `cd` command changes the current working directory (folder), allowing you to
 ```bash
 cd ..
 ```
-<INSERT_TERMINAL_RECORDING_OR_GIF_HERE>
+<img width="1728" height="1078" alt="image" src="https://github.com/user-attachments/assets/93cbcb02-f538-4557-a5f9-403637dd4150" />
 
 ### Move up two directories
 ```bash
 cd ../..
 ```
-<INSERT_TERMINAL_RECORDING_OR_GIF_HERE>
+<img width="1728" height="1080" alt="image" src="https://github.com/user-attachments/assets/8ce87648-0790-4ec7-996d-393867c902bc" />
+
 
 ### Move to parent folder's sibling directory
 ```bash
