@@ -5,5 +5,7 @@
 ## Table of Contents
 
 ### [Commands](https://github.com/serpuniversity/command-line/tree/main/commands)
-- [cd](https://github.com/serpuniversity/command-line/blob/main/commands/cd.md)
-- [mv](https://github.com/serpuniversity/command-line/blob/main/commands/mv.md)
+- [cd](https://github.com/serpuniversity/learn-command-line/blob/main/commands/cd.md)
+- [mv](https://github.com/serpuniversity/learn-command-line/blob/main/commands/mv.md)
+- [mkdir](https://github.com/serpuniversity/learn-command-line/blob/main/commands/mkdir.md)
+- [ls](https://github.com/serpuniversity/learn-command-line/blob/main/commands/ls.md)
