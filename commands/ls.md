@@ -1,3 +1,10 @@
+---
+title: How to use the `ls` terminal command
+tags:
+  - command line
+  - ls
+---
+
 # `ls`
 
 > _"List shit"_
