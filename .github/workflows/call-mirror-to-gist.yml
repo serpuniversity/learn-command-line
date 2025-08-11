@@ -10,7 +10,7 @@ on:
 
 jobs:
   call-mirror-workflow:
-    uses: serpuniversity/.github/.github/workflows/mirror-to-gist.yml@main
+    uses: serpuniversity/.github/.github/workflows/create-gist-from-md-file.yml@main
     with:
       file_path: ${{ github.event.inputs.file_path }}
     secrets:
