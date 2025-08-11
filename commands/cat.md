@@ -1,3 +1,11 @@
+---
+title: How to use the `cat` terminal command
+tags:
+  - command line
+  - linux
+related_articles:
+---
+
 # `cat`
 
 > _"What's in this file?"_
