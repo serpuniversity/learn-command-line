@@ -3,14 +3,15 @@ title: How to use the `cat` terminal command
 tags:
   - command line
   - linux
-related_articles:
 ---
 
 # `cat`
 
 > _"What's in this file?"_
 
-The `cat` command shows you what's inside files. Think of it as opening a file and reading it, but in the terminal. It displays the contents of text files right on your screen, making it perfect for quickly peeking at files without opening an editor.
+The `cat` command shows you what's inside files. 
+
+Think of it as opening a file and reading it, but in the terminal. It displays the contents of text files right on your screen, making it perfect for quickly peeking at files without opening an editor.
 
 <a href="#" target="_blank">
 <img src="#" width="1000px">
