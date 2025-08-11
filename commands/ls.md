@@ -11,7 +11,9 @@ tags:
 
 The `ls` command lists things. It shows you what files and folders are in a directory. 
 
-Think of this command as what you unintentionally do every time you open up a folder on your computer by double clicking it. When you do that, you just immediately see all the stuff that's in it. However, on the command line, there's no graphical user interface. So the first thing that you might typically do is type this command to show you what's in it. It's kind of like opening your eyes to see what is located at the place where you currently are.
+Think of this command as what you unintentionally do every time you open up a folder on your computer by double clicking it. When you do that, you just immediately see all the stuff that's in it. 
+
+However, on the command line, there's no graphical user interface. So the first thing that you might typically do is type this command to show you what's in it. It's kind of like opening your eyes to see what is located at the place where you currently are.
 
 And since you're not asking to see anything in particular, it's kind of like saying, "Oh, just go ahead and list all the shit that's here."
 
