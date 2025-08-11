@@ -1,4 +1,4 @@
-name: Mirror to Gist
+name: Call Mirror to Gist
 
 on:
   workflow_dispatch:
