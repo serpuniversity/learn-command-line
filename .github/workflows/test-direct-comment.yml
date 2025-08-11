@@ -1,0 +1,23 @@
+name: Test Direct Comment
+
+on:
+  workflow_dispatch:
+    inputs:
+      gist_id:
+        description: 'Gist ID to comment on'
+        required: true
+        type: string
+      comment:
+        description: 'Comment text'
+        required: true
+        type: string
+
+jobs:
+  comment-direct:
+    uses: serpuniversity/.github/.github/workflows/comment-on-gist.yml@main
+    with:
+      gist_id: ${{ github.event.inputs.gist_id }}
+      content_source: "direct"
+      comment_text: ${{ github.event.inputs.comment }}
+    secrets:
+      GH_PAT_PROFESSOR_SERP: ${{ secrets.GH_PAT_PROFESSOR_SERP }}
